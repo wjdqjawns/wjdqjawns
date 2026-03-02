@@ -23,22 +23,19 @@ Seoul, KR
 
 ## Focus
 
-- Quadruped locomotion (PPO, MuJoCo)
-- Embedded communication systems (UART / CAN / USB)
-- Control & Estimation
-- Satellite subsystem development
+- Space System
+  - Satellite Attitude Control
+  - Satellite Thermal Control
 
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wjdqjawns&show_icons=true&theme=transparent&hide_border=true&icon_color=000000&text_color=000000&title_color=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdqjawns&layout=compact&theme=transparent&hide_border=true&text_color=000000&title_color=000000)
+- Robot System
+  - Quadruped locomotion (PPO, MuJoCo)
+  - Embedded communication systems (UART / CAN / USB)
+  - Control & Estimation
+  - robot skin
 
 ---
 
 ## Contact
 
-- Email: your_email@example.com
-- Blog: https://velog.io/@YOUR_ID
+- Email: dgist22_jbj@dgist.ac.kr
+- Instagram: wjdqjawns
