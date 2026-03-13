@@ -38,4 +38,4 @@ Seoul, KR
 ## Contact
 
 - Email: dgist22_jbj@dgist.ac.kr
-- Website: wjdqjawns.github.io
+- Website: [wjdqjawns.github.io](https://wjdqjawns.github.io/)
