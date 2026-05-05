@@ -4,7 +4,7 @@
 
 # wjdqjawns
 
-I am an undergraduate student at DGIST interested in embedded systems, robotics, and satellite engineering. My work focuses on low-level system development, including microcontroller firmware, communication architectures, and hardware-software integration. I am currently involved in CubeSat system development and robotics simulation projects, with particular interest in control systems and system integration.
+I am an undergraduate student at DGIST interested in embedded systems, and system engineering. My work focuses on low-level system development, including microcontroller firmware, communication architectures, and hardware-software integration. I am currently involved in CubeSat system development and robotics simulation projects, with particular interest in control systems and system integration.
 
 ---
 
@@ -25,15 +25,6 @@ I am an undergraduate student at DGIST interested in embedded systems, robotics,
 
 ### Additional Experience
 - Quadruped locomotion simulation (PPO, MuJoCo)
-
----
-
-## Tech Stack
-
-- Embedded: C, STM32, FreeRTOS
-- Control/Analysis: Python, PyTorch
-- Simulation: MuJoCo
-- Environment: Linux
 
 ---
 
